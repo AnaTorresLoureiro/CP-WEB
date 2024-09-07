@@ -2,22 +2,34 @@ import styled from "styled-components";
 
 export const NavMenu = styled.nav`
     width: 100%;
-    min-height: 8vh;
-    background-color: black;
+    min-height: 10vh;
+    background-color: #586875;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-content: center;
+
+    img{
+        width: 100px;
+        height: 45px;
+        margin: 15px;
+    }
+
+    .menu{
+        margin-top: 25px;
+    }
 
     a{
         text-decoration: none;
-        color: white;
-        font-size: 20px;
+        color: #e3e5d7;
+        font-size: 15px;
+        font-weight: 800;
+        margin-right: 30px;
     }
 
-    span{
-        color: white;
-        font-size: 1.5em;
+    a:hover{
+        color: #a5c8ca;
     }
+
 `
 
 export const FooterRodape = styled.footer`
@@ -27,21 +39,27 @@ export const FooterRodape = styled.footer`
     display: flex;
     justify-content: center;
     align-content: center;
-    background-color: grey;
+    background-color: #586875;
 
-    p{
-        color: white;
-        text-align: center;
-        font-size: 20px;
-    }
+   p{
+    color: #e3e5d7;
+   }
 `
 
 export const MainGeral = styled.main`
     flex-grow: 1;
     width: 100%;
-    padding: 30px;
+    padding: 20px;
+    background-color: #f6eddc;
 
-    h1{
-        text-align: center;
-    }
+   img{
+    width: 95%;
+    margin-left: 30px;
+   }
+   h1{
+    text-align: center;
+    margin-top: 50px;
+    color: #586875;
+   }
 `
+
