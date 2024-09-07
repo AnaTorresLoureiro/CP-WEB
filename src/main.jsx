@@ -4,6 +4,7 @@ import App from './App.jsx'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import GlobalStyled from './global-styled.js'
 
+import Error from './routes/Error.jsx'
 import Home from './routes/Home/index.jsx'
 import Produtos from './routes/Produtos/index.jsx'
 import Sobre from './routes/Sobre/index.jsx'
@@ -12,6 +13,7 @@ const router = createBrowserRouter([
   {
     path:'/',
     element:<App/>,
+    errorElement:<Error/>,
 
     children: [
       {

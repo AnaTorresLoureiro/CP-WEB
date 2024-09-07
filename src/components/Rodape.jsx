@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { FooterRodape } from "../styled";
+import Logo from "../assets/logo_cp.png"
 
 export default function Rodape() {
   const [formData, setFormData] = useState({
@@ -53,7 +54,7 @@ export default function Rodape() {
                 Diretor Geral de Logística e Operações: Gerônimo Augusto
               </a>
               <p>Especialista em logística eficiente e operações, garantindo que todos os processos sejam otimizados.</p>
-              <div className="logo-area">[Logo Aqui]</div>
+              <img className="logo-area" src={Logo} alt="" />
             </li>
           </ul>
         </div>
