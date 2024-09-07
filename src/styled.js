@@ -136,4 +136,73 @@ export const MainProduto = styled.main`
    }
 `;
 
+export const SobreMain = styled.main`
+    padding: 20px;
+    ackground-color: #f6eddc;
+  
+  h1 {
+    text-align: center;
+    color: #586875;
+    margin-bottom: 30px;
+  }
 
+  h2 {
+    color: #586875;
+    margin-top: 30px;
+    border-bottom: 2px solid #586875;
+    padding-bottom: 5px;
+  }
+
+  p {
+    color: #586875;
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    text-align: justify;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+  }
+
+  li {
+    background-color: #e3e5d7;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 10px;
+    color: #586875;
+    font-size: 16px;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .highlight-box {
+    background-color: #a5c8ca;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+
+  .highlight-box h2 {
+    margin: 0;
+    font-size: 20px;
+  }
+
+  .highlight-box p {
+    font-size: 14px;
+  }
+
+
+`;
