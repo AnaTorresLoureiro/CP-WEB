@@ -8,9 +8,9 @@ export default function Sobre(){
             <div className="container">
         <h1>Sobre Nós</h1>
         <div className="highlight-box">
-          <h2>História da Olimpikus Sport</h2>
+          <h2>História da Olympia Sport</h2>
           <p>
-            A Olimpikus Sport nasceu do sonho de Josiane Souza, uma apaixonada por esportes olímpicos
+            A Olympia nasceu do sonho de Josiane Souza, uma apaixonada por esportes olímpicos
             desde a infância. Criada em uma pequena cidade do interior, Josiane cresceu admirando as
             Olimpíadas, mas sempre sentiu na pele a dificuldade de encontrar equipamentos adequados
             para as modalidades que amava. Praticante dedicada de ginástica artística e tiro com arco,
@@ -27,7 +27,7 @@ export default function Sobre(){
             viagens internacionais para competir e assistir a grandes eventos esportivos, Josiane
             começou a se inspirar nas lojas especializadas em esportes olímpicos que encontrava no
             exterior. Ao perceber o quanto esse tipo de loja era raro no Brasil, surgiu a ideia da
-            Olimpikus Sport, uma loja voltada exclusivamente para esportes olímpicos, com o objetivo de
+            Olympia Sport, uma loja voltada exclusivamente para esportes olímpicos, com o objetivo de
             fornecer produtos de alta qualidade para atletas e entusiastas de todas as modalidades.
           </p>
         </div>
@@ -35,7 +35,7 @@ export default function Sobre(){
         <div className="highlight-box">
           <h2>Nosso Propósito</h2>
           <p>
-            Com a Olimpikus Sport, Josiane deseja não só facilitar o acesso aos artigos esportivos, mas
+            Com a Olympia Sport, Josiane deseja não só facilitar o acesso aos artigos esportivos, mas
             também contribuir para o crescimento do esporte olímpico no país. A loja oferece uma ampla
             gama de produtos, atendendo desde esportes populares, como natação e atletismo, até os
             menos conhecidos, como luta greco-romana e badminton. Para Josiane, cada venda é uma chance
@@ -56,7 +56,7 @@ export default function Sobre(){
         <p>
           Ser a loja referência em artigos esportivos olímpicos no Brasil, criando uma comunidade de
           atletas e entusiastas que compartilham a paixão pelo esporte e pela superação de limites. A
-          Olimpikus Sport visa apoiar o crescimento das modalidades olímpicas e impulsionar o esporte
+          Olympia visa apoiar o crescimento das modalidades olímpicas e impulsionar o esporte
           no país.
         </p>
 
