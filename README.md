@@ -1,13 +1,13 @@
-#![logo_cp](https://github.com/user-attachments/assets/98ad0047-88d8-46c9-a1a8-1f72bc1e753a)
+![logo_cp](https://github.com/user-attachments/assets/98ad0047-88d8-46c9-a1a8-1f72bc1e753a)<br/>
 *Olympia é um projeto desenvolvido com o objetivo de criar uma loja esportiva online utilizando React e Vite. Este projeto é focado em proporcionar uma experiência moderna e ágil no desenvolvimento de aplicações front-end com essas tecnologias.*
 
 ### Tecnologias
 <a href="https://www.google.com/search?q=html" target="_blank" style="margin-right:10px"><img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML5&logoColor=orange&labelColor=black"></a>
 <a href="https://www.google.com/search?q=css" target="_blank" style="margin-right:10px"><img src="https://img.shields.io/badge/CSS-61DBFB?style=for-the-badge&logo=CSS3&logoColor=61DBFB&labelColor=black"></a>
 <a href="https://www.google.com/search?q=javascript" target="_blank" style="margin-right:10px"><img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=yellow&labelColor=black"></a>
-<a href="https://www.google.com/search?q=Node.js" target="_blank" style="margin-right:10px"><img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"></a>
-<a href="https://www.google.com/search?q=React" target="_blank" style="margin-right:10px"><img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>+
-<a href="https://www.google.com/search?q=Vite" target="_blank" style="margin-right:10px"><img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff"></a>
+<a href="https://www.google.com/search?q=Node.js" target="_blank" style="margin-right:10px"><img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&labelColor=black"></a>
+<a href="https://www.google.com/search?q=React" target="_blank" style="margin-right:10px"><img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&labelColor=black"></a>+
+<a href="https://www.google.com/search?q=Vite" target="_blank" style="margin-right:10px"><img src="https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite&labelColor=black"></a>
 
 #### Bibliotecas
 
